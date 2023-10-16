@@ -16,7 +16,7 @@ Motion detection is a fundamental step in analyzing video sequences. Structured 
 
 # Model
 
-<img src="/imgs/image-20231016134541497.png" alt="image-20231016134541497" width="50%" height="50%" />
+<img src="/imgs/image-20231016134541497.png" alt="image-20231016134541497"/>
 
 # Results
 
@@ -28,9 +28,9 @@ Motion detection is a fundamental step in analyzing video sequences. Structured 
 
 ## BMC dataset
 
-<img src="/imgs/image-20231016134245624.png" alt="image-20231016134245624" width="50%" height="50%" />
+<img src="/imgs/image-20231016134245624.png" alt="image-20231016134245624"/>
 
-<img src="/imgs/image-20231016134309288.png" alt="image-20231016134309288" width="50%" height="50%" />
+<img src="/imgs/image-20231016134309288.png" alt="image-20231016134309288"/>
 
 ## CDnet 2014 dataset
 
