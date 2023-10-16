@@ -16,7 +16,7 @@ Motion detection is a fundamental step in analyzing video sequences. Structured 
 
 # Model
 
-<img src="/Users/gaorong/Library/Application Support/typora-user-images/image-20231016134541497.png" alt="image-20231016134541497" style="zoom:50%;" />
+<img src="/imgs/image-20231016134541497.png" alt="image-20231016134541497" style="zoom:50%;" />
 
 # Results
 
