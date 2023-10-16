@@ -16,33 +16,33 @@ Motion detection is a fundamental step in analyzing video sequences. Structured 
 
 # Model
 
-<img src="/imgs/image-20231016134541497.png" alt="image-20231016134541497" style="zoom:50%;" />
+<img src="/imgs/image-20231016134541497.png" alt="image-20231016134541497" width="50%" height="50%" />
 
 # Results
 
 # I2R dataset
 
-<img src="/imgs/image-20231016134114919.png" alt="image-20231016134114919" style="zoom:50%;" />
+<img src="/imgs/image-20231016134114919.png" alt="image-20231016134114919" width="50%" height="50%" />
 
-<img src="/imgs/image-20231016134149628.png" alt="image-20231016134149628" style="zoom:20%;" />
+<img src="/imgs/image-20231016134149628.png" alt="image-20231016134149628" width="50%" height="50%" />
 
 ## BMC dataset
 
-<img src="/imgs/image-20231016134245624.png" alt="image-20231016134245624" style="zoom:50%;" />
+<img src="/imgs/image-20231016134245624.png" alt="image-20231016134245624" width="50%" height="50%" />
 
-<img src="/imgs/image-20231016134309288.png" alt="image-20231016134309288" style="zoom:50%;" />
+<img src="/imgs/image-20231016134309288.png" alt="image-20231016134309288" width="50%" height="50%" />
 
 ## CDnet 2014 dataset
 
-<img src="/imgs/image-20231016134355450.png" alt="image-20231016134355450" style="zoom:50%;" />
+<img src="/imgs/image-20231016134355450.png" alt="image-20231016134355450" width="50%" height="50%" />
 
-<img src="/imgs/image-20231016134430098.png" alt="image-20231016134430098" style="zoom:50%;" />
+<img src="/imgs/image-20231016134430098.png" alt="image-20231016134430098" width="50%" height="50%" />
 
 # How to start
 
 To run the code, just simply run ***MCFL_demo.m***.
 
-**Please note** that the first-pass results of "Campus" is given. Please remove 'pass1R.mat', 'pass1G.mat', and 'pass1B.mat' from \results\Img\, if you want to run the whole system.
+**Please note** that the first-pass results of "Campus" are given. Please remove 'pass1R.mat', 'pass1G.mat', and 'pass1B.mat' from \results\Img\, if you want to run the whole system.
 
 # Citation
 
