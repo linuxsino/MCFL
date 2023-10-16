@@ -22,21 +22,21 @@ Motion detection is a fundamental step in analyzing video sequences. Structured 
 
 # I2R dataset
 
-<img src="/imgs/image-20231016134114919.png" alt="image-20231016134114919" width="50%" height="50%" />
+<img src="/imgs/image-20231016134114919.png" alt="image-20231016134114919"/>
 
 <img src="/imgs/image-20231016134149628.png" alt="image-20231016134149628" width="50%" height="50%" />
 
 ## BMC dataset
 
-<img src="/imgs/image-20231016134245624.png" alt="image-20231016134245624"/>
+<img src="/imgs/image-20231016134245624.png" alt="image-20231016134245624" width="50%" height="50%"/>
 
 <img src="/imgs/image-20231016134309288.png" alt="image-20231016134309288"/>
 
 ## CDnet 2014 dataset
 
-<img src="/imgs/image-20231016134355450.png" alt="image-20231016134355450" width="50%" height="50%" />
+<img src="/imgs/image-20231016134355450.png" alt="image-20231016134355450"/>
 
-<img src="/imgs/image-20231016134430098.png" alt="image-20231016134430098" width="50%" height="50%" />
+<img src="/imgs/image-20231016134430098.png" alt="image-20231016134430098"/>
 
 # How to start
 
