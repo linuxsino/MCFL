@@ -1,4 +1,4 @@
-# Notice
+# Note
 
 16/10/23 Code Upload.
 
@@ -24,7 +24,7 @@ Motion detection is a fundamental step in analyzing video sequences. Structured 
 
 <img src="/imgs/image-20231016134114919.png" alt="image-20231016134114919"/>
 
-<img src="/imgs/image-20231016134149628.png" alt="image-20231016134149628" width="50%" height="50%" />
+<img src="/imgs/image-20231016134149628.png" alt="image-20231016134149628" width="30%" height="30%" />
 
 ## BMC dataset
 
