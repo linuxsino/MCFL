@@ -1,3 +1,5 @@
+This repository is the implementation for "Multi-Channel Fused Lasso for Motion Detection in Dynamic Video Scenarios".
+
 # Note
 
 16/10/23 Code Upload.
