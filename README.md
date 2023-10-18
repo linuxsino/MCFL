@@ -25,5 +25,5 @@ To run the code, just simply run ***MCFL_demo.m***.
 This is a code for 'Multi-Channel Fused Lasso for Motion Detection'. 
 If you happen to use this source code, please cite our papers:
 ```
-'Multi-Channel Fused Lasso for Motion Detection in Dynamic Video Scenarios' submitted to IEEE Transactions on Industrial Informatics.
+'Multi-Channel Fused Lasso for Motion Detection in Dynamic Video Scenarios' submitted to IEEE Transactions on Consumer Electronics.
 ```
